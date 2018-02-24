@@ -1,0 +1,1 @@
+"use strict";const path=require("path");hexo.extend.filter.register("new_post_path",function(e,t){return"string"==typeof e&&hexo.config.lowercase&&(e=path.dirname(e)+path.sep+path.basename(e).toLowerCase()),e});
