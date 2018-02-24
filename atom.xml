@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Masmorra Descuidada</title>
+  
+  <subtitle>Um site semi-abandonado</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://masmorradescuidada.com.br/"/>
+  <updated>2018-02-23T20:56:01.641Z</updated>
+  <id>http://masmorradescuidada.com.br/</id>
+  
+  <author>
+    <name>DevilishFSB</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>D&amp;D e Dano Psíquico</title>
+    <link href="http://masmorradescuidada.com.br/D-D-5e-e-Dano-Psiquico/"/>
+    <id>http://masmorradescuidada.com.br/D-D-5e-e-Dano-Psiquico/</id>
+    <published>2018-02-23T17:37:00.000Z</published>
+    <updated>2018-02-23T20:56:01.641Z</updated>
+    
+    <content type="html"><![CDATA[<p>Para marcar minha volta à ativa após 2 anos sem escrever nada neste blog, vou tentar responder a dúvida de nosso colega rpgista <a href="https://www.facebook.com/lucas.surf.xtreme" target="_blank" rel="noopener">Lucas Gomes</a>:</p><p><img src="https://i.imgur.com/IUIIDHI.png" alt=""></p><p><strong>Resumo Rápido</strong>: Se você seguir as sugestões demonstradas no LdJ, eu sugiro que dano psíquico afete a “durabilidade física e mental, a vontade de viver, e sorte” do personagem, e se manifesta como olhos vidrados, tremores, lágrimas, transpiração, recolhimento involutário dos membros, etc. quando o personagem está com menos da metade dos PV’s; ou sangramentos nas orelhas, olhos e nariz seguido de desmaio quando atinge zero PV’s.</p><p>Resistência a dano psíquico reduz o dano psíquico recebido pela metade.</p><h2 id="Descricao-Longa"><a href="#Descricao-Longa" class="headerlink" title="Descrição Longa"></a>Descrição Longa</h2><p>Para começar, lembre-se inicialmente da regra de prata do D&amp;D 5e: o <strong>Específico</strong> supera o <strong>geral</strong>.</p><p>As referências utilizadas nesta matéria usa o material disponível em <a href="http://dnd5ed.github.io/" target="_blank" rel="noopener">http://dnd5ed.github.io/ </a>como base, e o texto é voltado mais especificamente para mestres.</p><h3 id="As-Regras"><a href="#As-Regras" class="headerlink" title="As Regras"></a>As Regras</h3><p>Regra <strong>geral</strong> sobre a aparência de efeitos mágicos (LdJ 204):</p><blockquote><p>A menos que uma magia tenha efeito perceptível, uma<br>criatura pode não saber se foi alvo de uma magia. Um<br>efeito, como luzes crepitantes é bem obvio, mas um efeito<br>mais sutil, como uma tentativa de ler os pensamentos de<br>uma criatura, normalmente passa despercebido, a menos<br>que a magia diga o contrário.</p></blockquote><p>Então, em geral, se o feitiço tiver um efeito perceptível, esse efeito será percebido; Se não é, então, não será. No entanto, como sempre, o específico supera o geral: se o feitiço diz algo diferente em sua descrição, ela terá precedência.</p><p>Regra <strong>Geral</strong> sobre Pontos de Vida e Efeitos do Dano recebido (LdJ 196):</p><blockquote><p>Pontos de vida representam a combinação da<br>durabilidade física e mental, a vontade de viver, e sorte.<br>(…)<br>A qualquer momento que uma criatura sofrer dano,<br>esse dano é subtraído de seus pontos de vida. A perda de<br>pontos de vida não tem efeito nas capacidades da criatura<br>até que ela caia a 0 pontos de vida.</p></blockquote><p>Pontos de Vida <strong>não</strong> representam exclusivamente o corpo físico das criaturas - também representam sua capacidade mental, tolerância psicológica e sorte individual.</p><p>Regra <strong>Geral</strong> sobre Dano Psíquico (LdJ 196):</p><blockquote><p>Diferentes ataques, magias e outros efeitos nocivos<br>causam diferentes tipos de dano. Tipos de dano não têm<br>regras próprias, mas outras regras, como resistência ao<br>dano, dependem dos tipos de dano.<br>(…)<br><strong>Psíquico</strong>. Habilidades mentais como a rajada psiônica<br>de um devorador de mentes causam dano psíquico.</p></blockquote><p>A partir destes trechos do LdJ, cheguei à conclusão de que <strong>não existem regras específicas</strong> sobre o funcionamento do dano psíquico. Aparentemente, você deve tratá-lo como qualquer outro tipo de dano a menos que o alvo possua resistência ou vulnerabilidade a dano psíquico.</p><p>Mas o que é <strong>Resistência a Dano</strong>, afinal? E Vulnerabilidade?</p><p>Regra <strong>Geral</strong> sobre Resistência E Vulnerabilidade a Dano (LdJ 197):</p><blockquote><p>Algumas criaturas e objetos são extremamente difíceis ou<br>muito fáceis de machucar com certos tipos de dano.<br>Se uma criatura ou objeto tem <strong>resistência</strong> a um tipo<br>de dano, aquele tipo de dano será reduzido pela metade<br>contra ela. Se uma criatura ou objeto tem<br><strong>vulnerabilidade</strong> a um tipo de dano, aquele tipo de dano<br>será dobrado contra ela.<br>Resistência e vulnerabilidade são aplicados depois de<br>todos os modificadores de dano. Por exemplo, uma<br>criatura tem resistência a dano de concussão e é acertada<br>por um ataque que causa 25 de dano de concussão. A<br>criatura também está dentro de uma aura mágica que<br>reduz todo o dano em 5. Os 25 de dano primeiro são<br>reduzidos em 5 e depois reduzidos pela metade, então a<br>criatura sofre 10 de dano.<br>Múltiplas resistências e vulnerabilidades que afetam o<br>mesmo tipo de dano contam apenas como uma. Por<br>exemplo, se uma criatura tem resistência a dano de fogo e<br>também tem resistência a todo dano não-mágico, o dano<br>de fogo não-mágico será reduzido pela metade e não por<br>três quartos.</p></blockquote><p>Caras, essa leitura não é pesada, mas o resumo é simples:</p><ul><li>Qualquer modificador de dano numérico deve ser aplicado ao dano antes de Resistência ou Vulnerabilidade a Dano;</li><li>Multiplas Resistências a Dano contam como uma, reduzindo o dano pela metade;</li><li>Múltiplas Vulnerabilidades a Dano contam como uma, dobrando o dano recebido;</li><li>Multiplas Resistências a Dano são anuladas por uma única Vulnerabilidade a Dano;</li><li>Múltiplas Vulnerabilidades a Dano são anuladas por uma única Resistência a Dano.</li></ul><p>Agora que, acredito eu, tiramos Resistência a Dano do caminho…</p><p><strong>Sugestão</strong> sobre como descrever dano (LdJ 197):</p><blockquote><p>DESCREVENDO OS EFEITOS DE DANO<br>Mestres descrevem a perda de pontos de vida de maneiras<br>diferentes. Quando seus pontos de vida atuais estão entre a<br>metade e o valor máximo, você tipicamente não mostra sinais de<br>ferimento. Quando seus pontos de vida caem abaixo da metade,<br>você mostra sinais de desgaste, como cortes e contusões. Um<br>ataque que reduz você a 0 pontos de vida acerta-o diretamente,<br>deixando um ferimento que sangra, um trauma ou simplesmente<br>o deixando inconsciente.</p></blockquote><p>Agora, não lembro em que parte das regras isso é citado, mas as caixas flutuantes em certas partes dos livros básicos do D&amp;D 5e são apenas <strong>sugestões</strong> de como interpretar as regras. Mas, de acordo com a orientação citada acima, você trata Pontos de Vida da seguinte forma:</p><ul><li>Acima da Metade dos PV’s - sem ferimentos visíveis;</li><li>Abaixo da Metade dos PV’s - sinais visíveis de ferimentos;</li><li>Zero PV’s - Dano direto a um órgão vital, fratura óssea ou simples inconsciência.</li></ul><p>Finalmente, a regra <strong>Específica</strong> para a magia <em>Zombaria Viciosa</em> (LdJ 288):</p><blockquote><p>Você libera uma série de insultos atados com<br>encantamentos <strong>sutis</strong> numa criatura que você possa ver,<br>dentro do alcance. Se o alvo puder ouvir você (…)</p></blockquote><p>A regra específica é que encantamentos são <strong>sutis</strong>, então ninguém poderá perceber esse ataque como nada mais que insultos, inclusive a vítima (especialmente se ela passar no teste de resistência). Para descrever o dano, na ausência da regra específica você recai sobre a regra geral:</p><ul><li>Se o dano psíquico da <em>Zombaria Viciosa</em> não foi suficiente para reduzir o alvo a menos da metade dos PV’s, nada visível acontece;</li><li>Se o dano psíquico da <em>Zombaria Viciosa</em> foi suficiente para reduzir o alvo a menos da metade dos PV’s ou foi provocado contra um alvo com metade dos PV’s, ele demonstra sinais físicos de que o insulto provocou dano psicológico: olhos vidrados, tremores, lágrimas, transpiração, recolhimento involuntário dos membros, etc.</li><li>Se o dano psíquico da <em>Zombaria Viciosa</em> foi suficiente para reduzir o alvo a zero PV’s, o alvo provavelmente começa a sangrar por suas orelhas, olhos e nariz pouco antes de perder a consciência.</li></ul><p>Isso quer dizer que ninguém poderá ligar a zombaria ao dano psíquico recebido pela magia <em>Zombaria Viciosa</em> sem um sucesso num teste de Percepção ativa, mas nada impede o alvo de pagar um bardo para “defender sua honra” frente à zombaria recebida.</p><p>Provavelmente insultando de volta com <em>Sussurros Dissonantes</em>, que é <strong>ainda mais sutil</strong> que <em>Zombaria Viciosa</em>. Mas <strong>sutileza em D&amp;D</strong> é um peixe que só pretendo fritar no futuro.</p><h2 id="Conclusao"><a href="#Conclusao" class="headerlink" title="Conclusão"></a>Conclusão</h2><p>Qualquer interpretação que <em>O Mestre</em> quiser dar para como dano psíquico funciona será válida, desde que ela consiga fornecer constantemente aos jogadores a informação de que precisam durante os encontros.</p><p>Algumas pessoas realizam meta-jogo com Pontos de Vida e os tratam puramente como números sem nenhuma descrição aplicada.</p><p><strong>Exemplo</strong>: “Você provoca 3pv de dano psíquico, ele agora está com 8pv restando. O Orc revida com <em>Sussuro Dissonante</em> e você leva 15 pontos de dano”.</p><p>Outros tratam PV’s como uma descrição pura com pouca ou nenhuma nota sobre efeitos mecânicos.</p><p><strong>Exemplo</strong>: “Você ataca com seus insultos, então o Orc pausa momentaneamente e cospe no chão, antes de levantar seu machado de batalha e grunhir em sua direção. Você sente seu nariz sangrar levemente, enquanto uma voz surge na sua cabeça dizendo ‘seu povo logo pertencerá ao meu líder e sua família servirá meus descendentes por toda a eternidade’”.</p><p>Ou você pode fazer um meio termo:</p><p><strong>Exemplo</strong>: “Você ataca com seus insultos, fazendo 3 pontos de dano; o Orc não mostra sinais óbvios de angústia, mas revida sua zombaria com um <em>Sussurro Dissonante</em> sinistro que causa 15 pontos de dano em você”.</p><p>Leva tempo, mas descobrir o que funciona melhor para o seu grupo é parte do desafio de se jogar RPG.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Para marcar minha volta à ativa após 2 anos sem escrever nada neste blog, vou tentar responder a dúvida de nosso colega rpgista &lt;a href=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sucesso</title>
+    <link href="http://masmorradescuidada.com.br/Sucesso/"/>
+    <id>http://masmorradescuidada.com.br/Sucesso/</id>
+    <published>2018-02-22T08:20:00.000Z</published>
+    <updated>2018-02-22T17:14:42.458Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://www.poorlydrawnlines.com/comic/picture-success/" target="_blank" rel="noopener">Poorly Drawn Lines:</a></p><p><img src="https://i.imgur.com/yXI7936.png" alt="picture-success"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://www.poorlydrawnlines.com/comic/picture-success/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Poorly Drawn Lines:&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;h
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://masmorradescuidada.com.br/hello-world/"/>
+    <id>http://masmorradescuidada.com.br/hello-world/</id>
+    <published>2018-02-21T00:30:54.987Z</published>
+    <updated>2018-02-21T00:30:54.987Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Dia dos Pais</title>
+    <link href="http://masmorradescuidada.com.br/Dia-dos-Pais/"/>
+    <id>http://masmorradescuidada.com.br/Dia-dos-Pais/</id>
+    <published>2016-08-14T10:22:31.000Z</published>
+    <updated>2018-02-22T08:00:37.276Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><a href="http://thepigeongazette.tumblr.com/post/122098098094/it-hangs-on-my-wall-to-this-day-because-who-only" target="_blank" rel="noopener">thepigeongazette:</a></p><p><img src="https://cloud.githubusercontent.com/assets/16065507/13172946/979cd89c-d6d9-11e5-93eb-25428ec56f45.png" alt="_tumblr_nqb59b77jm1tfju21o1_1280"><br><img src="https://cloud.githubusercontent.com/assets/16065507/13172947/97cd51b6-d6d9-11e5-9da3-44e730c24b53.png" alt="_tumblr_nqb59b77jm1tfju21o2_1280"><br><img src="https://cloud.githubusercontent.com/assets/16065507/13172948/97f6738e-d6d9-11e5-82d0-055ba355c606.png" alt="_tumblr_nqb59b77jm1tfju21o3_1280"><br><img src="https://cloud.githubusercontent.com/assets/16065507/13172949/97f8003c-d6d9-11e5-8f12-7a6663e4e561.png" alt="_tumblr_nqb59b77jm1tfju21o4_1280"></p><p>Ele está na minha parede até hoje. (Porque quem cozinha só um ovo de cada vez?)</p><p>Feliz dia dos Pais, papai, mesmo se você nunca vier a ver isso.</p><p>Eu realmente queria ter colorido isso como uma história em quadrinhos cheia de popa, mas tenho exames e aulas cara&hellip;</p><p>By Jane</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://thepigeongazette.tumblr.com/post/122098098094/it-hangs-on-my-wall-to-this-day-because-who-only&quot; target=&quot;_blan
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ano de Samus</title>
+    <link href="http://masmorradescuidada.com.br/Ano-de-Samus/"/>
+    <id>http://masmorradescuidada.com.br/Ano-de-Samus/</id>
+    <published>2016-08-06T13:18:12.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://juice-the-obtuse.tumblr.com/post/148540649320" title="Open original article in a new tab" target="_blank" rel="noopener">juice-the-obtuse:</a></p><blockquote><p><a href="http://alexxdz.tumblr.com/post/148518662301" target="_blank" rel="noopener">alexxdz</a>:</p><blockquote><p><a href="http://splashbrush.tumblr.com/post/148516507563" target="_blank" rel="noopener">splashbrush</a>:</p><blockquote><p><img src="http://65.media.tumblr.com/c8ec3c1b551747d608dd50df924ad704/tumblr_inline_obgmctCIpJ1sfv1pk_540.gif" alt=""></p></blockquote><p>Oh cara, é aquela época do ano novamente.</p><p><img src="http://67.media.tumblr.com/776deb723631a89ff666be066f1dbed4/tumblr_inline_obgpal7ZDL1r9zgnd_540.jpg" alt=""></p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://juice-the-obtuse.tumblr.com/post/148540649320&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cabeçudinho</title>
+    <link href="http://masmorradescuidada.com.br/Cabecudinho/"/>
+    <id>http://masmorradescuidada.com.br/Cabecudinho/</id>
+    <published>2016-08-05T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://scotchtapeofficial.tumblr.com/post/148487520382" title="Open original article in a new tab" target="_blank" rel="noopener">scotchtapeofficial:</a></p><blockquote><p><img src="http://66.media.tumblr.com/79c64a70c94c3a868c8c19295001055c/tumblr_obcbgkuCYM1rrftcdo2_400.gif" alt=""></p><p><img src="http://66.media.tumblr.com/769430f8d97e2f0ddf73d6c0e9eaa54d/tumblr_obcbgkuCYM1rrftcdo4_r1_500.png" alt=""></p><p><img src="http://67.media.tumblr.com/3fa3354853e3930c559c20df4874bdab/tumblr_obcbgkuCYM1rrftcdo3_400.gif" alt=""></p><p><img src="http://67.media.tumblr.com/0ddd679b362a56b0466fe7d9eab5fcf9/tumblr_obcbgkuCYM1rrftcdo1_500.jpg" alt=""></p><p><a href="http://suppermariobroth.tumblr.com/post/148414357595" target="_blank" rel="noopener">suppermariobroth</a>:</p><blockquote><p>Em Super Mario Galaxy, quando Mario se afoga em um pântano, sua mão se estende por cima da superfície antes de ser sugado para baixo. No entanto, como a cabeça de Mario é grande demais, ele não pode levantar a mão acima da superfície sem sua cabeça ficar visível. Para resolver isso, o jogo simplesmente encolhe a cabeça de Mario para que ela não interfira com a animação.</p></blockquote></blockquote><p><img src="https://cloud.githubusercontent.com/assets/16065507/17441004/7b4bae56-5b05-11e6-8748-36cc783fe267.gif" alt="headshrink"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://scotchtapeofficial.tumblr.com/post/148487520382&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Furries por todo lugar</title>
+    <link href="http://masmorradescuidada.com.br/Furries-por-todo-lugar/"/>
+    <id>http://masmorradescuidada.com.br/Furries-por-todo-lugar/</id>
+    <published>2016-08-05T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://noodlenumber.tumblr.com/post/148491552892" title="Open original article in a new tab" target="_blank" rel="noopener">noodlenumber</a></p><blockquote><p><img src="http://67.media.tumblr.com/d4ff50582f1de5b9c836c8030e427e43/tumblr_obapg5L3eX1qzhjh2o1_500.jpg" alt=""></p><p><a href="http://trufflesmushroom.tumblr.com/post/148491507908/does-anyone-else-ever-like-look-at-a-picture-and" target="_blank" rel="noopener">trufflesmushroom</a>:</p><blockquote><p>Como alguém poderia gostar de&hellip; olhar para esta foto e se perguntar porque o mundo está do jeito que está.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://noodlenumber.tumblr.com/post/148491552892&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;nood
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Indesculpável</title>
+    <link href="http://masmorradescuidada.com.br/Indesculpavel/"/>
+    <id>http://masmorradescuidada.com.br/Indesculpavel/</id>
+    <published>2016-08-05T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://ashiael.tumblr.com/post/148480251987" title="Open original article in a new tab" target="_blank" rel="noopener">ashiael:</a></p><blockquote><p><a href="http://dashaque.tumblr.com/post/111942410390" target="_blank" rel="noopener">dashaque</a>:</p><blockquote><p>Estupro é o único crime que eu consigo imaginar que é 100% indesculpável. Não há absolutamente nenhuma razão para isso. Em qualquer circunstância. Você pode matar em legítima defesa, você pode roubar para ajudar a sua família passando fome. Mesmo fazer drogas ilegais pode realmente ajudar as pessoas a se acalmarem.</p><p>Mas o estupro não ajuda ninguém, exceto o estuprador. E o que me deixa perplexo até hoje é a forma como as pessoas procuram desculpas para estrupos como &ldquo;Tipo, ele/ela estava bêbado&rdquo; ou &ldquo;O que ela estava vestindo?&rdquo; Ou &ldquo;Ele é um cara, ele provavelmente gostou.&rdquo;</p><p>Esse é o único crime que todos deveriam considerar indesculpável e ainda é o que as pessoas tentam justificar a maior parte das vezes.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://ashiael.tumblr.com/post/148480251987&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ashiael:&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tesla Troll</title>
+    <link href="http://masmorradescuidada.com.br/Tesla-Troll/"/>
+    <id>http://masmorradescuidada.com.br/Tesla-Troll/</id>
+    <published>2016-08-05T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://ashiael.tumblr.com/post/148480249957" title="Open original article in a new tab" target="_blank" rel="noopener">ashiael:</a></p><blockquote><p><img src="https://cloud.githubusercontent.com/assets/16065507/17443673/493e650e-5b12-11e6-97ee-3e1c63a106ab.jpg" alt="tesla-troll"></p><p><a href="http://piratebay-premium.tumblr.com/post/147958152612" target="_blank" rel="noopener">piratebay-premium</a>:</p><blockquote><p><a href="http://critical-perspective.tumblr.com/post/147958120447" target="_blank" rel="noopener">critical-perspective</a>:</p><blockquote><p><a href="http://unbelievable-facts.tumblr.com/post/147957427568" target="_blank" rel="noopener">unbelievable-facts</a>:</p><blockquote><p>Em 1898 Nikola Tesla certa vez enganou uma multidão inteira fazendo-os acreditar que ele podia controlar um barco de brinquedo gritando comandos - mas ele havia, de fato, invetando um Controle Remoto e estava pilotando o barco ele mesmo.</p></blockquote><p>Homem inventa algo incrível e imediatamente o usa para fazer prendas.</p></blockquote><p>Neutro e Caótico.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://ashiael.tumblr.com/post/148480249957&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ashiael:&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Controvérsia Engraçada</title>
+    <link href="http://masmorradescuidada.com.br/Controversia-Engracada/"/>
+    <id>http://masmorradescuidada.com.br/Controversia-Engracada/</id>
+    <published>2016-08-04T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://ponett.tumblr.com/post/148459738122" title="Open original article in a new tab" target="_blank" rel="noopener">ponett</a>:</p><blockquote><p>A controvérsia mais engraçada dos videogames foi quando as pessoas descobriram que havia uma passagem secreta que levava até o final do jogo &ldquo;Esqueceram de Mim&rdquo; e que podiam pular direto para o final em dois minutos. Elas genuinamente utilizavam esse fato como alegação de que o jogo durava apenas 2 minutos e, portanto, não valia a pena pagar [por ele].</p><p>Isso é exatamente como se você dissesse que não há nenhum sentido em comprar livros porque você pode simplesmente le a última página primeiro.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://ponett.tumblr.com/post/148459738122&quot; title=&quot;Open original article in a new tab&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ponett&lt;/a&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Dragões X Mamangabas</title>
+    <link href="http://masmorradescuidada.com.br/Dragoes-X-Mamangabas/"/>
+    <id>http://masmorradescuidada.com.br/Dragoes-X-Mamangabas/</id>
+    <published>2016-08-04T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><a href="http://allthedragonagenamesaretaken.tumblr.com/post/147818570959" target="_blank" rel="noopener">allthedragonagenamesaretaken</a>:</p><blockquote><p><a href="http://kadustuniverse.tumblr.com/post/147817083717" target="_blank" rel="noopener">kadustuniverse</a>:</p><blockquote><p><a href="http://yulon.tumblr.com/post/146973211609" target="_blank" rel="noopener">yulon</a>:</p><blockquote><p>“Dragões não seriam capazes de voar por causa de sua massa corporal e envergadura das asas -”</p><p>Que tal isso: cale a boca</p></blockquote><p>Mamangabas sofrem com o mesmo problema, porém eles voam. Dragões podem voar também.</p></blockquote><p>Excelente.</p></blockquote></blockquote><p>Narrativa.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://allthedragonagenamesaretaken.tumblr.com/post/147818570959&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;allthedragonagename
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Incontáveis Bebês</title>
+    <link href="http://masmorradescuidada.com.br/Incontaveis-Bebes/"/>
+    <id>http://masmorradescuidada.com.br/Incontaveis-Bebes/</id>
+    <published>2016-08-04T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Cara Mau</strong>: &ldquo;Sua demonstração irresponsável de poder irá cobrar um preço elevado, Onmyouji!&rdquo;</p><p>Então, ele arremessa uma quantidade incontável de bebês numa coluna de fogo.</p><p><strong>Onmyouji</strong>: NÃÃÃOOOOOOO!!</p><p>Usa <em>Reedição da Realidade</em> para se livrar da coluna de fogo. Como efeito colateral, os bebês começam a quicar, inofensivamente, no chão.</p><p><strong>Cara Mau</strong>: Maldito seja, feiticeiro! Isso não acabou !!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Cara Mau&lt;/strong&gt;: &amp;ldquo;Sua demonstração irresponsável de poder irá cobrar um preço elevado, Onmyouji!&amp;rdquo;&lt;/p&gt;&lt;p&gt;Então, ele 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Direitos de Uso</title>
+    <link href="http://masmorradescuidada.com.br/Direitos-de-Uso/"/>
+    <id>http://masmorradescuidada.com.br/Direitos-de-Uso/</id>
+    <published>2016-07-30T09:48:45.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<p>Como vocês devem ter notado, resolvi me livrar de todas as matérias que pudessem vir a me causar problemas de direitos de uso no futuro - caso você queira algum material que sumiu do site durante esta transição, fique livre para pedir no email de contato a seguir.</p><p>Qualquer denúncia de DMCA favor mandar um email para <a href="mailto:devilishfsb@masmorradescuidada.com.br">devilishfsb@masmorradescuidada.com.br</a>, para caso for confirmada a violação retirarmos o conteúdo citado do ar tão logo o administrador tenha tempo de atualizar o blog.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Como vocês devem ter notado, resolvi me livrar de todas as matérias que pudessem vir a me causar problemas de direitos de uso no futuro -
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Meu Blog, Minhas Regras</title>
+    <link href="http://masmorradescuidada.com.br/Meu-Blog-Minhas-Regras/"/>
+    <id>http://masmorradescuidada.com.br/Meu-Blog-Minhas-Regras/</id>
+    <published>2016-07-21T20:48:35.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><img src="https://cloud.githubusercontent.com/assets/16065507/17388240/3c819b84-59d1-11e6-8cd2-97243e284ba6.png" alt="sujeito 01"></p><p><img src="https://cloud.githubusercontent.com/assets/16065507/17388239/3c810dd6-59d1-11e6-827f-aa2d9a4bfe9a.png" alt="sujeito 02"></p><p><a href="http://ohtze.tumblr.com/post/145303873063" target="_blank" rel="noopener">ohtze</a>:</p><blockquote><p>( ͡° ͜ʖ ͡°)</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16065507/17388240/3c819b84-59d1-11e6-8cd2-97243e284ba6.png&quot; alt=&quot;sujeito
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Faster</title>
+    <link href="http://masmorradescuidada.com.br/Faster/"/>
+    <id>http://masmorradescuidada.com.br/Faster/</id>
+    <published>2016-07-21T02:30:11.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><a href="http://beach-cave.tumblr.com/post/138248029757" target="_blank" rel="noopener">beach-cave</a>:</p><blockquote><p><strong>Algum nerd:</strong> Sonic é mais rápido que o Mario</p><p><strong>Eu:&nbsp;</strong></p><figure data-orig-width="463" data-orig-height="75" class="tmblr-full" data-orig-src="http://67.media.tumblr.com/4d6c00db13ad3c160b745b272f541f81/tumblr_inline_o1owagYvQY1sr8ol9_540.png"><img src="http://66.media.tumblr.com/4d6c00db13ad3c160b745b272f541f81/tumblr_inline_o6olmuzJxJ1sr8ol9_540.png" alt="image"></figure></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://beach-cave.tumblr.com/post/138248029757&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;beach-cave&lt;/a&gt;:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;st
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Servidores de Pokémon</title>
+    <link href="http://masmorradescuidada.com.br/Servidores-de-Pokemon/"/>
+    <id>http://masmorradescuidada.com.br/Servidores-de-Pokemon/</id>
+    <published>2016-07-19T18:10:41.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><img src="http://65.media.tumblr.com/d157c0fef7bc0c32b263f7196de71c99/tumblr_oah8fcmfei1vn7crpo1_500.jpg" alt=""></p><p><a href="http://mrost.tumblr.com/post/147588721240" target="_blank" rel="noopener">mrost</a>:</p><blockquote><p><a href="http://pondwitch.tumblr.com/post/147565580322" target="_blank" rel="noopener">pondwitch</a>:</p><blockquote><p>Deus nos ajude</p></blockquote><p>Eu gostei de como você quase pode ouvir o desespero do pessoal do suporte.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://65.media.tumblr.com/d157c0fef7bc0c32b263f7196de71c99/tumblr_oah8fcmfei1vn7crpo1_500.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;a hr
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Helll</title>
+    <link href="http://masmorradescuidada.com.br/Helll/"/>
+    <id>http://masmorradescuidada.com.br/Helll/</id>
+    <published>2016-07-19T01:52:30.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><img src="http://66.media.tumblr.com/6cb1e584c2febb67bcddfdf397fbebaf/tumblr_nyh4rzTcC71qgb4moo1_500.jpg" alt=""></p><p>ENTRETANTO! EU ACREDITO EM VOCÊ!</p><p><img src="http://66.media.tumblr.com/22a68b26033c3d2321afe297614f3e25/tumblr_nyh4rzTcC71qgb4moo2_500.jpg" alt=""></p><p>Você vai ter que tentar um pouco mais do que ISSO!</p><p><img src="http://66.media.tumblr.com/8bac80ed37e2f6de73af7179dcf8ee7a/tumblr_nyh4rzTcC71qgb4moo3_500.jpg" alt=""></p><p>Em dias como este, crianças como você &hellip;</p><p><a href="http://andatsea.tumblr.com/post/134055023158" target="_blank" rel="noopener">andatsea</a>:</p><blockquote><p>Até que de repente, tudo termina.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://66.media.tumblr.com/6cb1e584c2febb67bcddfdf397fbebaf/tumblr_nyh4rzTcC71qgb4moo1_500.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;ENTRE
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bro</title>
+    <link href="http://masmorradescuidada.com.br/Bro/"/>
+    <id>http://masmorradescuidada.com.br/Bro/</id>
+    <published>2016-07-19T01:28:46.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><img src="http://67.media.tumblr.com/f5ee34057ee300aa3254eab1ea96da59/tumblr_oad5vhzoAc1rrftcdo1_500.png" alt=""></p><p><img src="http://67.media.tumblr.com/362437fb9ffd9199e7662c528d0c88a6/tumblr_oad5vhzoAc1rrftcdo7_500.png" alt=""></p><p><img src="http://66.media.tumblr.com/a8b01944e2977b268f532df412fd40e7/tumblr_oad5vhzoAc1rrftcdo6_500.png" alt=""></p><p><img src="http://66.media.tumblr.com/5201f7cb02577b792e1b86c8cbec3657/tumblr_oad5vhzoAc1rrftcdo3_500.png" alt=""></p><p><img src="http://66.media.tumblr.com/8fdc8662cb9f5136b45726b76d41c1d7/tumblr_oad5vhzoAc1rrftcdo4_500.png" alt=""></p><p><img src="http://67.media.tumblr.com/edd9193fd3f6d03d4a79846ff299cab1/tumblr_oad5vhzoAc1rrftcdo5_500.png" alt=""></p><p><img src="http://67.media.tumblr.com/d3e3d1631ab16ebe9edbb352c80de528/tumblr_oad5vhzoAc1rrftcdo2_500.png" alt=""></p><p><a href="http://suppermariobroth.tumblr.com/post/147450600550" target="_blank" rel="noopener">suppermariobroth</a>:</p><blockquote><p>Em Super Smash Bros. Melee, sempre que um personagem fica fora da tela, ele é exibido dentro de um pequeno círculo indicando sua posição. Estes são os modelos de baixa resolução utilizados nesses círculos.</p></blockquote></blockquote><p><img src="https://cloud.githubusercontent.com/assets/16065507/16935671/c42e14be-4d37-11e6-8c46-3c98c8adce2b.png" alt="tumblr_oad5vhzoac1rrftcdo5_500"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://67.media.tumblr.com/f5ee34057ee300aa3254eab1ea96da59/tumblr_oad5vhzoAc1rrftcdo1_500.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;img 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Akikan (2009)</title>
+    <link href="http://masmorradescuidada.com.br/Akikan-2009/"/>
+    <id>http://masmorradescuidada.com.br/Akikan-2009/</id>
+    <published>2016-07-19T01:16:43.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><a href="http://kyuuti-hanii.tumblr.com/post/147421864465" target="_blank" rel="noopener">kyuuti-hanii</a>:</p><blockquote><p><a href="http://gaston26.tumblr.com/post/147420092142" target="_blank" rel="noopener">gaston26</a>:</p><blockquote><p><a href="http://kyuuti-hanii.tumblr.com/post/147419841930" target="_blank" rel="noopener">kyuuti-hanii</a>:</p><blockquote><p>Um cara genérico e burro de cabelo preto subitamente se vê rodeado por um harém de versões maravilhosas, humanizadas de diferentes tipos de refrigerantes. Todas possuem melões gigantescos com excessão de Pepsi-Chan, que é constantemente provocada por todo mundo por possui peito plano.</p></blockquote><p><a href="http://myanimelist.net/anime/5112/Akikan" target="_blank" rel="noopener">http://myanimelist.net/anime/5112/Akikan</a></p></blockquote><p>…VOCÊ ESTÁ BRINCANDO COMIGO!?</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://kyuuti-hanii.tumblr.com/post/147421864465&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;kyuuti-hanii&lt;/a&gt;:&lt;/p&gt;&lt;blockquote&gt;&lt;p
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pata</title>
+    <link href="http://masmorradescuidada.com.br/Pata/"/>
+    <id>http://masmorradescuidada.com.br/Pata/</id>
+    <published>2016-07-19T00:15:22.000Z</published>
+    <updated>2018-02-20T20:55:12.184Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><img src="http://66.media.tumblr.com/f443394d1f1698c710e6ba36120fed10/tumblr_mzktoloz2z1qjnhqgo1_500.jpg" alt=""></p><p><a href="http://unclefather.tumblr.com/post/92281191056" target="_blank" rel="noopener">unclefather</a>:</p><blockquote><p>Esta é a cena do crime.</p></blockquote></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;&lt;img src=&quot;http://66.media.tumblr.com/f443394d1f1698c710e6ba36120fed10/tumblr_mzktoloz2z1qjnhqgo1_500.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;a hr
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
