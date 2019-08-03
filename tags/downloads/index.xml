@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads on Masmorra Descuidada</title>
+    <link>https://www.masmorradescuidada.com.br/tags/downloads/</link>
+    <description>Recent content in Downloads on Masmorra Descuidada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 20 Dec 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.masmorradescuidada.com.br/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baralho!</title>
+      <link>https://www.masmorradescuidada.com.br/baralho/</link>
+      <pubDate>Tue, 20 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.masmorradescuidada.com.br/baralho/</guid>
+      <description>Tradução livre da matéria Card Based Resolution. Disponível em PdF aqui. Se estiver em dúvida sobre os termos utilizados, sugiro ler o RPG Espírito do Século, disponível aqui.
+Nota: enquanto escrevia essa tradução, encontrei um cara que fez um sistema de resolução com cartas para Sistema Daemon, disponível aqui.
+FATE - Resolução Baseada em Cartas  Mão do Destino: em vez de pontos de destino, cada jogador começa a sessão sacando uma quantidade de cartas igual à sua Taxa de Recuperação.</description>
+    </item>
+    
+  </channel>
+</rss>
